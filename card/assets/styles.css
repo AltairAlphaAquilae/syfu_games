@@ -30,7 +30,7 @@ button {
     padding: 10px 20px;
     border: 0;
     cursor: pointer;
-    font-family: Fredoka;
+    font-family: ZenAntique;
     font-size: 18pt;
 }
 
@@ -84,7 +84,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -95,7 +95,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -106,7 +106,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -117,7 +117,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -128,7 +128,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -139,7 +139,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -150,7 +150,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -161,7 +161,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -172,7 +172,7 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -183,143 +183,73 @@ button {
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0a {
+.card-back10 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0b {
+.card-back11 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0c {
+.card-back12 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0d {
+.card-back13 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0e {
+.card-back14 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
 
 .card-front,
-.card-back0f {
+.card-back15 {
     position: absolute;
     border-radius: 5px;
     width: 100%;
     height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-
-.card-front,
-.card-back0g {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-
-.card-front,
-.card-back0h {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-
-.card-front,
-.card-backl1 {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-.card-front,
-.card-backl2 {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}.card-front,
-.card-backl3 {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-.card-backl4 {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-    backface-visibility: hidden;
-}
-.card-backl5 {
-    position: absolute;
-    border-radius: 5px;
-    width: 100%;
-    height: 100%;
-    background: url(../img/120/logo.png) no-repeat 50% 50%;
+    background: url(../card_back.png) round;
     transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
     backface-visibility: hidden;
 }
@@ -330,7 +260,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/00.png) no-repeat 50% 50%;
 }
 
 .card-back01 {
@@ -340,7 +269,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/01.png) no-repeat 50% 50%;
 }
 
 .card-back02 {
@@ -350,7 +278,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/02.png) no-repeat 50% 50%;
 }
 
 .card-back03 {
@@ -360,7 +287,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/03.png) no-repeat 50% 50%;
 }
 
 .card-back04 {
@@ -370,7 +296,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/04.png) no-repeat 50% 50%;
 }
 
 .card-back05 {
@@ -380,7 +305,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/05.png) no-repeat 50% 50%;
 }
 
 .card-back06 {
@@ -390,7 +314,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/06.png) no-repeat 50% 50%;
 }
 
 .card-back07 {
@@ -400,7 +323,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/07.png) no-repeat 50% 50%;
 }
 
 .card-back08 {
@@ -410,7 +332,6 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/08.png) no-repeat 50% 50%;
 }
 
 .card-back09 {
@@ -420,135 +341,60 @@ button {
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/09.png) no-repeat 50% 50%;
 }
 
-.card-back0a {
+.card-back10 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0a.png) no-repeat 50% 50%;
 }
 
-.card-back0b {
+.card-back11 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0b.png) no-repeat 50% 50%;
 }
 
-.card-back0c {
+.card-back12 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0c.png) no-repeat 50% 50%;
 }
 
-.card-back0d {
+.card-back13 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0d.png) no-repeat 50% 50%;
 }
 
-.card-back0e {
+.card-back14 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0e.png) no-repeat 50% 50%;
 }
 
-.card-back0f {
+.card-back15 {
     transform: rotateY(180deg) rotateZ(50deg);
     font-size: 0pt;
     user-select: none;
     text-align: center;
     line-height: 100px;
     background: #FDF8E6;
-    background: url(../img/120/0f.png) no-repeat 50% 50%;
-}
-
-.card-back0g {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/0g.png) no-repeat 50% 50%;
-}
-
-.card-back0h {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/0h.png) no-repeat 50% 50%;
-}
-
-.card-backl1 {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/l1.png) no-repeat 50% 50%;
-}
-
-.card-backl2 {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/l2.png) no-repeat 50% 50%;
-}
-
-.card-backl3 {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/l3.png) no-repeat 50% 50%;
-}
-.card-backl4 {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/l4.png) no-repeat 50% 50%;
-}
-.card-backl5 {
-    transform: rotateY(180deg) rotateZ(50deg);
-    font-size: 0pt;
-    user-select: none;
-    text-align: center;
-    line-height: 100px;
-    background: #FDF8E6;
-    background: url(../img/120/l5.png) no-repeat 50% 50%;
 }
 .card.flipped .card-front {
     transform: rotateY(180deg) rotateZ(50deg);
@@ -585,7 +431,6 @@ button {
 .card.flipped .card-back07 {
     transform: rotateY(0) rotateZ(0);
 }
-
 .card.flipped .card-back08 {
     transform: rotateY(0) rotateZ(0);
 }
@@ -594,53 +439,27 @@ button {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0a {
+.card.flipped .card-back10 {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0b {
+.card.flipped .card-back11 {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0c {
+.card.flipped .card-back12 {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0d {
+.card.flipped .card-back13 {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0e {
+.card.flipped .card-back14 {
     transform: rotateY(0) rotateZ(0);
 }
 
-.card.flipped .card-back0f {
-    transform: rotateY(0) rotateZ(0);
-}
-
-.card.flipped .card-back0g {
-    transform: rotateY(0) rotateZ(0);
-}
-
-.card.flipped .card-back0h {
-    transform: rotateY(0) rotateZ(0);
-}
-
-.card.flipped .card-backl1 {
-    transform: rotateY(0) rotateZ(0);
-}
-
-.card.flipped .card-backl2 {
-    transform: rotateY(0) rotateZ(0);
-}
-
-.card.flipped .card-backl3 {
-    transform: rotateY(0) rotateZ(0);
-}
-.card.flipped .card-backl4 {
-    transform: rotateY(0) rotateZ(0);
-}
-.card.flipped .card-backl5 {
+.card.flipped .card-back15 {
     transform: rotateY(0) rotateZ(0);
 }
 .win {
@@ -676,480 +495,5 @@ button {
         cursor: pointer;
     }
 
-
-    .card-front,
-    .card-back00 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
     
-    .card-front,
-    .card-back01 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back02 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back03 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back04 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back05 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back06 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back07 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back08 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back09 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0a {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0b {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0c {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0d {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0e {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0f {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0g {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    
-    .card-front,
-    .card-back0h {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-
-    .card-front,
-    .card-backl1 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-
-    .card-front,
-    .card-backl2 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-
-    .card-front,
-    .card-backl3 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    .card-backl4 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }
-    .card-backl5 {
-        position: absolute;
-        border-radius: 5px;
-        width: 100%;
-        height: 100%;
-        background: url(../img/80/logo.png) no-repeat 50% 50%;
-        transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
-        backface-visibility: hidden;
-    }    
-    .card-back00 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/00.png) no-repeat 50% 50%;
-    }
-    
-    .card-back01 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/01.png) no-repeat 50% 50%;
-    }
-    
-    .card-back02 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/02.png) no-repeat 50% 50%;
-    }
-    
-    .card-back03 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/03.png) no-repeat 50% 50%;
-    }
-    
-    .card-back04 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/04.png) no-repeat 50% 50%;
-    }
-    
-    .card-back05 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/05.png) no-repeat 50% 50%;
-    }
-    
-    .card-back06 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/06.png) no-repeat 50% 50%;
-    }
-    
-    .card-back07 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/07.png) no-repeat 50% 50%;
-    }
-    
-    .card-back08 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/08.png) no-repeat 50% 50%;
-    }
-    
-    .card-back09 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/09.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0a {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0a.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0b {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0b.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0c {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0c.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0d {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0d.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0e {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0e.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0f {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0f.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0g {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0g.png) no-repeat 50% 50%;
-    }
-    
-    .card-back0h {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/0h.png) no-repeat 50% 50%;
-    }
-
-    .card-backl1 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/l1.png) no-repeat 50% 50%;
-    }
-    
-    .card-backl2 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/l2.png) no-repeat 50% 50%;
-    }
-    
-    .card-backl3 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/l3.png) no-repeat 50% 50%;
-    }
-    .card-backl4 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/l4.png) no-repeat 50% 50%;
-    }
-    .card-backl5 {
-        transform: rotateY(180deg) rotateZ(50deg);
-        font-size: 0pt;
-        user-select: none;
-        text-align: center;
-        line-height: 100px;
-        background: #FDF8E6;
-        background: url(../img/80/l5.png) no-repeat 50% 50%;
-    }
 }
